@@ -1,0 +1,18 @@
+1. What is a nested loop?
+A. A loop that occurs within another loop. 
+
+2. Which kind of loop is based on a conditional statement: while loops or for loops?
+A: While
+
+3. When you want to iterate a specific number of times, would you typically use a while loop or a
+for loop?
+A: For
+
+
+4. Is it possible to loop through a string one letter at a time? What is the example given in the article?
+A. Yes. Sammy. 
+
+5. Extrapolate from what you learned in the articles: Do you think a for loop be nested inside a
+while loop? Why or why not?
+A. Yes. A while loop can set the condition for the for loop. 
+
