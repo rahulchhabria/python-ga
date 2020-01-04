@@ -3,6 +3,10 @@ romantic_movie2 = ("Groundhog Day", 1993, 101, "He's having the day of his life.
 romantic_movie3 = ("Amélie", 2001, 122, "One person can change your life forever.", ["Amélie Poulain", "Nino Quincampoix", "The Garden Gnome"])
 
 
-print("Here are my favorite romance movies:", romantic_movie1[0], romantic_movie1[1], romantic_movie1[3])
-print(romantic_movie2[0], romantic_movie2[1], romantic_movie2[3])
-print(romantic_movie3[0], romantic_movie3[1], romantic_movie3[3])
+print("Here are my favorite romance movies:")
+print("\t")
+print(romantic_movie1[0], " " , '(', romantic_movie1[1], ')', ":", " ", romantic_movie1[3], sep="")
+print("\t")
+print(romantic_movie2[0], " " , '(', romantic_movie2[1], ')', ":", " ", romantic_movie2[3], sep="")
+print("\t")
+print(romantic_movie3[0], " " , '(', romantic_movie3[1], ')', ":", " ", romantic_movie3[3], sep="")

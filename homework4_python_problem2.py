@@ -36,7 +36,7 @@ employee4 = {
     
 }
 
-print(employee1["name"], "in", employee1["department"], "can be reached at", employee1["phone"], ".")
-print(employee2["name"], "in", employee2["department"], "can be reached at", employee2["phone"], ".")
-print(employee3["name"], "in", employee3["department"], "can be reached at", employee3["phone"], ".")
-print(employee4["name"], "in", employee4["department"], "can be reached at", employee4["phone"], ".")
+print(employee1["name"], "in", employee1["department"], "can be reached at", employee1["phone"], ".", sep='')
+print(employee2["name"], "in", employee2["department"], "can be reached at", employee2["phone"], ".", sep='')
+print(employee3["name"], "in", employee3["department"], "can be reached at", employee3["phone"], ".", sep='')
+print(employee4["name"], "in", employee4["department"], "can be reached at", employee4["phone"], ".", sep='')
